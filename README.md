@@ -17,3 +17,8 @@ SIM!!!:
  - Aceito melhorias via pull requests.
  - Aceito Issues nesse repositório.
  - Aceito que façam forks (não que não desse pra eu não permitir, no caso).
+
+## Notas
+A decompilação, sem nenhuma alteração, pode ser achada NESSE COMMIT: https://github.com/PatoFlamejanteTV/IRPFDecomp/tree/8f1f6c3b4e1104bdb00a9ce8245907001737f2b4
+
+Tudo depois disso foi commits de modificação ao código, aka código não-puro.
